@@ -3,7 +3,6 @@
 📍 London, United Kingdom  
 📧 seyidalitunjay@gmail.com  
 📞 +44 7392 890159  
-🔗 [LinkedIn](https://www.linkedin.com/in/tunjay-seyidali-30319722a/)  
 
 ---
 
