@@ -6,101 +6,84 @@
 
 ---
 
-## 🧠 Summary
+### 🚀 Summary
+I am a Computer Science student at **King's College London** with a strong foundation in **quantitative analysis**, **data-driven problem-solving**, and **software engineering**. My experience spans Fintech, capital markets, computational modelling, and analytical roles, blending technical depth with structured reasoning.
 
-I am a Computer Science student at **King's College London** with experience across software engineering, project management, diplomacy, and finance. From building scalable systems in the banking sector to representing Azerbaijan at the **United Nations ECOSOC Youth Forum**, I thrive at the intersection of technology and global impact.
-
-My academic journey is guided by a strong focus on **Data Science, Artificial Intelligence, Software Engineering, and Fintech**, supported by practical experience in both public and private sector innovation.
-
----
-
-## 💼 Experience
-
-**Kapital Bank** — *Software Engineer Intern*  
-*Baku, Azerbaijan | 06/2025 – Present*  
-- Engineered internal software tools to improve data flow and operational efficiency.  
-- Collaborated with product and acquiring technology teams to integrate APIs and backend systems.
-
-**United Nations (ECOSOC Youth Forum)** — *Representative of Azerbaijan*  
-*New York, USA | 04/2025*  
-- Delivered position statements on digital inclusion and education equity.  
-- Engaged in policy discourse on sustainable development goals with international delegates.
-
-**King’s Quant Society** — *Associate*  
-*London, United Kingdom | 02/2025 – 06/2025*  
-- Contributed to quantitative finance research and industry collaborations.  
-- Supported corporate outreach and partner engagement with finance firms.
-
-**Pasha Bank OJSC** — *Software Engineer Intern*  
-*Baku, Azerbaijan | 06/2024 – 09/2024*  
-- Developed financial reporting tools and improved data accuracy.  
-- Conducted unit testing and debugging for CRM systems.
-
-**Hazircavab.az** — *Co-Founder*  
-*Baku, Azerbaijan | 02/2022 – 04/2024*  
-- Launched a real-time digital consulting platform.  
-- Designed and pitched investment and growth strategies.
+* 🔭 I’m currently working on **High-frequency trading algorithms & Fintech Backend Systems**.
+* 🏦 I have internship experience in **Acquiring Technology** and **CRM Systems**.
+* 🧠 I approach problems with precision, clarity, and intellectual curiosity.
 
 ---
 
-## 🎓 Education
+### 🛠️ Technical Skills
 
-**King’s College London**  
-*BSc Computer Science | 09/2024 – 06/2027*  
-- Specialization in Data Science, AI, Software Engineering, and Fintech.
-
-**King’s College London**  
-*International Foundation in Computer Science & Mathematics | 09/2023 - 06/2024*  
-- Graduated with an overall A.  
-- Participated in MUN at LSE.  
-- Conducted AI research focused on intelligent data analysis.
+| **Languages** | **Frameworks & Tools** | **Domain Knowledge** |
+| :--- | :--- | :--- |
+| ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) | ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) | 📈 Quantitative Research |
+| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%23000.svg?style=flat&logo=postgresql&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) | 📊 Financial Modeling |
+| ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=flat&logo=scala&logoColor=white) | 💻 Bloomberg Terminal | 🤖 Algorithmic Trading |
 
 ---
 
-## 🛠️ Soft & Tech Skills
+### 💼 Work Experience
 
-- Software Development | Problem Solving | Agile Development  
-- SQL & Data Analysis | Corporate Communication | Presentation Skills  
-- Mentoring | Technical Writing | Research & Innovation
+#### **Kapital Bank | Software Engineer Intern**
+*Baku, Azerbaijan | 06/2025 – 09/2025*
+*Focus: Acquiring Technology (Payments, POS, Security)*
+* **Optimised Payment Logic:** Refactored **Java** backend algorithms for POS transactions, reducing execution latency by **15%** across high-volume merchant endpoints.
+* **Enhanced Reliability:** Debugged and resolved **17+** critical issues within **Spring Boot REST APIs**, ensuring consistent system availability during peak transaction hours.
+* **Merchant Solutions:** Co-developed a **SQL-driven** reporting feature for the settlement dashboard, streamlining data accuracy for **420** active business clients.
 
-- **Languages**: Java, Python, SQL, Kotlin
-- **Frameworks**: Spring Boot, React (basic), Node.js (basic)
-- **Tools**: Git, Postman, Docker, JUnit, Maven
-- **Focus Areas**: Fintech, AI in Finance, Digital Transformation, Data Analytics, Product Strategy
-
----
-
-## 🌍 Languages
-
-- Azerbaijani — Native/Bilingual  
-- English — Native/Bilingual  
-- Russian — Fluent  
-- French — Elementary Proficiency  
+#### **Pasha Bank OJSC | Software Engineer Intern**
+*Baku, Azerbaijan | 06/2024 – 09/2024*
+*Focus: CRM Technology (Internal Tools, Efficiency)*
+* **Workflow Automation:** Engineered a **Java-based** automation utility for the internal CRM, eliminating **~6 hours** of manual data entry per week for the sales team.
+* **Performance Tuning:** Optimized complex **SQL** queries and **Spring Boot** data interactions, decreasing customer profile load times by **25%** for internal users.
+* **System Integration:** Integrated third-party notification services via **REST API**, enabling real-time alerts for **3,000+** customer interactions.
 
 ---
 
-## 📜 Certifications
+### 💻 Featured Project
 
-- **Forward Program** – McKinsey & Company  
-- **Investment Banking Job Simulation** – JP Morgan  
-- **Financial Markets** – Yale University  
-- **Marketing Analytics Foundation** – Meta  
-- **Project Governance** – The Open University  
-- **What is Data Science?** – IBM  
-- **Local E-Government – Theory** – United Nations  
+#### **Loan Management System**
+*A Spring Boot backend service for managing digital loan applications.*
+* **Loan Lifecycle Engine:** Engineered a robust **Spring Boot** backend to digitize loan processing, delivering RESTful endpoints for real-time status tracking and comprehensive security auditing.
+* **Automated State Management:** Implemented a background scheduler to auto-expire stale applications, enforcing strict business logic and optimizing database performance by reducing data clutter.
 
 ---
 
-## 🏆 Awards & Achievements
+### 🏛️ Extracurricular & Leadership
 
-- 🥉 **American Mathematical Competition** – 3rd Place (2021)  
-- 🥈 **Copernicus Mathematics Olympiad** – Silver Medal (2022)  
-- 🥈 **Vilnius International Project Olympiad** – Engineering, 2nd Place (2023)  
-- 🧠 **Modern Engineering Club** – Founder & National Lead  
-- ♻️ **Plastic Pollution Reduction via QR Codes** – Creator of trackable recycling solution  
+**King’s Investment Society | Research & Markets Analyst**
+* **Sector Analysis:** Conducted fundamental analysis across 3 major asset classes, identifying long-term trends to enhance the quality of the society's monthly newsletter.
+* **Market Intelligence:** Synthesized 12+ key macroeconomic indicators weekly to produce structured market summaries, directly supporting the society’s portfolio decision-making.
+
+**King’s Quant Finance Society | Trading & Case Competition Associate**
+* **Algorithmic Strategy:** Designed and back-tested 3 mean-reversion trading strategies using **Python (Pandas/NumPy)**.
+* **Case Competition:** Collaborated in a team of 8 to build valuation models for complex derivatives.
 
 ---
 
-I’m always open to opportunities, collaborations, or impactful discussions related to **technology, finance, global development**, and innovation.  
-Feel free to explore my repositories or reach out directly!
+### 🎓 Education
 
+**King's College London | BSc Computer Science**
+*09/2024 – 06/2027*
+* **Expected Degree:** First Class
+* **Scholarship:** Fully funded by the Azerbaijan Ministry of Science and Education’s State Program for Study Abroad.
+
+---
+
+### 🏆 Achievements & Courses
+
+* 🥇 **American Mathematics Competitions:** 1st Place (Demonstrated superior problem-solving logic).
+* 🥈 **Copernicus Math Olympiad:** 2nd Place (International recognition).
+* 🌍 **United Nations ECOSOC (2025):** Youth Delegate.
+* 📜 **State Program Scholarship:** Recipient.
+* 📚 **Courses:** McKinsey & Company Forward Program, Central Bank of Azerbaijan (Financial Services).
+
+---
+
+### 🗣️ Languages
+* **Native:** English, Azerbaijani
+* **Fluent:** Russian, Turkish
+* **Intermediate:** French
