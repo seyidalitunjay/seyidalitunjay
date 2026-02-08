@@ -52,6 +52,52 @@ Sep 2024 – Jun 2027
 
 ---
 
+## Work Experience
+
+### CCL Label — Quantitative Strategy Intern
+
+Kent, United Kingdom  
+Sep 2025 – Present  
+
+- Developed Python optimisation model improving inventory efficiency and reducing waste  
+- Conducted quantitative analysis to evaluate pricing and distribution strategies  
+- Built technical workflows to support data-driven operational decisions  
+
+---
+
+### Kapital Bank — Software Engineer Intern
+
+Baku, Azerbaijan  
+Jun 2025 – Sep 2025  
+
+- Refactored Java backend logic within production financial systems, improving endpoint performance by 15%  
+- Resolved production-level API issues within Spring Boot services  
+- Contributed to stability and performance of high-volume retail transaction infrastructure  
+
+---
+
+### CCL Label — Software Engineer Intern
+
+Kent, United Kingdom  
+Jan 2025 – May 2025  
+
+- Developed Python and SQL automation scripts to streamline reporting workflows  
+- Optimised database queries improving internal system performance  
+- Automated manual operational processes through backend scripting  
+
+---
+
+### Pasha Bank — Software Engineer Intern
+
+Baku, Azerbaijan  
+Jun 2024 – Sep 2024  
+
+- Built Java automation utility for internal CRM system  
+- Optimised SQL queries improving system responsiveness and efficiency  
+- Improved internal operational workflows through backend tooling  
+
+---
+
 ## Extracurricular Activities
 
 ### King’s Investment Society — Research Associate
