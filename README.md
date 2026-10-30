@@ -11,10 +11,9 @@ Building Mnemoria &nbsp;·&nbsp; Youth Delegate &nbsp;·&nbsp; State Program Sch
 
 <br>
 
-
-<a href="https://www.linkedin.com/in/tunjay-seyidali-30319722a"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/tunjay-seyidali-30319722a"><img align="center" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 &nbsp;
-<a href="mailto:seyidalitunjay1@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<code>seyidalitunjay@&#8203;gmail.com</code>
 
 </div>
 
@@ -81,7 +80,7 @@ A product that makes an AI's memory visible to the person it is about. A live in
 
 <p align="center">
 <a href="https://mnemoria.co"><b>Visit mnemoria.co →</b></a><br>
-<sub>🔒 Private repository. Code walkthrough available on request: <a href="mailto:seyidalitunjay1@gmail.com">get in touch</a>.</sub>
+<sub>🔒 Private repository. Code walkthrough available on request at seyidalitunjay@gmail.com</sub>
 </p>
 
 <br><br>
@@ -226,7 +225,11 @@ Azerbaijani · English · Russian · Turkish · French
 
 <br><br>
 
-<a href="mailto:seyidalitunjay1@gmail.com"><img src="https://img.shields.io/badge/Get%20in%20touch-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Get in touch" /></a>
+<a href="mailto:seyidalitunjay@gmail.com"><img src="https://img.shields.io/badge/Get%20in%20touch-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Get in touch" /></a>
+
+<br><br>
+
+<h3>seyidalitunjay@gmail.com</h3>
 
 </div>
 
