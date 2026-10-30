@@ -1,133 +1,235 @@
-# Tunjay Seyidali
+<div align="center">
 
-📍 London, United Kingdom  
-📧 seyidalitunjay@gmail.com  
-📞 +44 7392 890159  
-🔗 [LinkedIn](https://www.linkedin.com/in/tunjay-seyidali-30319722a/)  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1c1c1e,100:2c2c2e&height=280&section=header&text=Tunjay%20Seyidali&fontSize=68&fontColor=ffffff&fontAlignY=38&desc=I%20build%20technology%20people%20can%20trust%2C%20and%20help%20shape%20how%20it%20is%20governed.&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Tunjay Seyidali" />
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=2400&pause=900&color=8E8E93&center=true&vCenter=true&width=760&lines=Artificial+Intelligence;Software+Engineering;Systems;Technology+Policy" alt="Artificial Intelligence · Software Engineering · Systems · Technology Policy" />
 
-## Summary
+<br><br>
 
-Ambitious Computer Science student at King’s College London (Expected First Class) with hands-on experience building production-level backend systems, financial data pipelines, and quantitative optimisation models. Proven ability to develop scalable Java and Python systems within financial services and enterprise environments, including experience improving backend performance, automating data workflows, and engineering robust REST APIs. Strong interest in backend engineering, distributed systems, and fintech infrastructure, with practical experience gained through internships at Kapital Bank, CCL Label, and Pasha Bank.
+**Final-Year BSc Computer Science @ King's College London**<br>
+Building Mnemoria &nbsp;·&nbsp; Youth Delegate &nbsp;·&nbsp; State Program Scholar &nbsp;·&nbsp; Student Researcher
 
----
+<br>
 
-## Skills and Technologies
 
-| Core Languages | Web & Backend Technologies | Financial and Data Tools | Methodologies |
-|---|---|---|---|
-| ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)<br>![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)<br>![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)<br>![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)<br>![SQL](https://img.shields.io/badge/sql-%23000.svg?style=flat&logo=postgresql&logoColor=white)<br>![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)<br>![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=flat&logo=scala&logoColor=white) | ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=flat&logo=spring&logoColor=white)<br>![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)<br>![REST API](https://img.shields.io/badge/rest-api-blue)<br>![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=flat&logo=docker&logoColor=white)<br>![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat&logo=postgresql&logoColor=white)<br>![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)<br>![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)<br>![Bloomberg](https://img.shields.io/badge/bloomberg-terminal-black)<br>![Market Analysis](https://img.shields.io/badge/market-analysis-blue)<br>![Algorithmic Trading](https://img.shields.io/badge/algorithmic-trading-darkgreen)<br>![Risk Analysis](https://img.shields.io/badge/risk-analysis-red) | ![OOP](https://img.shields.io/badge/object--oriented-programming-blue)<br>![Agile](https://img.shields.io/badge/agile-development-orange)<br>![TDD](https://img.shields.io/badge/test--driven-development-green)<br>![Database Design](https://img.shields.io/badge/database-design-grey)<br>![SQL Optimisation](https://img.shields.io/badge/database-optimisation-yellow) |
+<a href="https://www.linkedin.com/in/tunjay-seyidali-30319722a"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+&nbsp;
+<a href="mailto:seyidalitunjay1@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
----
+</div>
 
-## Featured Projects
+<br><br>
 
-### Loan Lifecycle Engine (Solo Project)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:8e8e93,100:000000&height=2&section=header" width="100%" alt="" />
 
-Java, Spring Boot, REST APIs, Docker  
+<br><br>
 
-- Engineered backend service for digital loan processing  
-- Designed RESTful APIs for loan lifecycle management  
+<div align="center">
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=44&duration=900&pause=500&color=FFFFFF&center=true&vCenter=true&width=760&height=70&lines=Build.;Build.+Understand.;Build.+Understand.+Govern." alt="Build. Understand. Govern." />
 
-### Team Feedback Platform (Group Project)
+<br>
 
-TypeScript, Next.js, React, Prisma, MySQL  
+<table>
+<tr>
+<td align="center" width="33%" valign="top">
+<h2>Build.</h2>
+<b>Software Engineering<br>& Systems</b><br><br>
+<sub>Shipping reliable products,<br>from idea to production.</sub>
+</td>
+<td align="center" width="33%" valign="top">
+<h2>Understand.</h2>
+<b>Artificial<br>Intelligence</b><br><br>
+<sub>Making AI legible and<br>accountable to people.</sub>
+</td>
+<td align="center" width="33%" valign="top">
+<h2>Govern.</h2>
+<b>Technology<br>Policy</b><br><br>
+<sub>Bringing engineering into<br>the rooms where rules are made.</sub>
+</td>
+</tr>
+</table>
 
-- Developed full-stack team feedback and evaluation platform  
-- Implemented secure data storage and access control  
+</div>
 
----
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:8e8e93,100:000000&height=2&section=header" width="100%" alt="" />
+
+<br><br>
+
+<div align="center">
+
+<sub>A I &nbsp; · &nbsp; S O F T W A R E &nbsp; · &nbsp; S Y S T E M S</sub>
+
+## Mnemoria
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=20&duration=2200&pause=100000&color=8E8E93&center=true&vCenter=true&repeat=false&width=600&lines=A+window+into+how+an+AI+remembers+you." alt="A window into how an AI remembers you." />
+
+</div>
+
+A product that makes an AI's memory visible to the person it is about. A live inspector traces every turn: what the system extracts, retrieves, places in context and revises. Designed, engineered and launched solo, and part of **Anthropic's Claude for Startups** program.
+
+- **AI:** LLM-based memory extraction, local ONNX embeddings, retrieval, memory revision and decay
+- **Software:** full-stack product with a Next.js interface on a FastAPI backend, built so anyone can follow what the AI is doing
+- **Systems:** PostgreSQL with pgvector and versioned per-turn tracing, stress-tested with concurrent multi-step user journeys, with no connection-pool errors or duplicate writes
+- **Security:** encrypted user keys, database locked away from the public API, open redirect and rate-limit bypasses fixed
+
+<p align="center">
+<code>Python</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>pgvector</code> <code>TypeScript</code> <code>Next.js</code> <code>Claude API</code>
+</p>
+
+<p align="center">
+<a href="https://mnemoria.co"><b>Visit mnemoria.co →</b></a><br>
+<sub>🔒 Private repository. Code walkthrough available on request: <a href="mailto:seyidalitunjay1@gmail.com">get in touch</a>.</sub>
+</p>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:8e8e93,100:000000&height=2&section=header" width="100%" alt="" />
+
+<br><br>
+
+<div align="center">
+
+<sub>A I &nbsp; · &nbsp; H U M A N &nbsp; J U D G M E N T</sub>
+
+## Research
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=20&duration=2200&pause=100000&color=8E8E93&center=true&vCenter=true&repeat=false&width=640&lines=Do+models+agree+with+people+when+people+disagree%3F" alt="Do models agree with people when people disagree?" />
+
+</div>
+
+Supervised research at King's College London on how closely AI judgments match the full range of human opinion, not just the majority view.
+
+- **Pre-registered studies** testing whether moral-psychology prompting brings model verdicts closer to human judgment
+- **Rigorous measurement** with Jensen-Shannon divergence, paired bootstrap confidence intervals and active controls
+- **Finding:** asking the model to write out its reasoning moved its verdicts further from human judgments
+- **Open and reproducible:** pipeline, pre-registrations and raw data released; poster for the King's Experience Research Award
+
+<p align="center"><a href="REPO_LINK_HERE"><b>View the research repository →</b></a></p>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:8e8e93,100:000000&height=2&section=header" width="100%" alt="" />
+
+<br><br>
+
+<div align="center">
+
+## Leadership
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=20&duration=2200&pause=100000&color=8E8E93&center=true&vCenter=true&repeat=false&width=600&lines=Bringing+engineering+into+tech+policy." alt="Bringing engineering into tech policy." />
+
+<br>
+
+<table>
+<tr>
+<td align="center" width="50%"><h3>UN ECOSOC<br>Youth Forum</h3><sub>Youth Delegate<br>AI and digital policy</sub></td>
+<td align="center" width="50%"><h3>World Bank Group<br>Youth Summit</h3><sub>Youth Delegate<br>AI and digital policy</sub></td>
+</tr>
+</table>
+
+</div>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:8e8e93,100:000000&height=2&section=header" width="100%" alt="" />
+
+<br><br>
+
+<div align="center">
+
+## Experience
+
+</div>
+
+| | | |
+|:--|:--|--:|
+| **Data Analyst Intern** | Ministry of Digital Development and Transport, Azerbaijan<br><sub>Public-sector AI: research framework for the LLM behind MyGov.az, focused on hallucination prevention and access control</sub> | 2026 |
+| **Software Engineer Intern** | Kapital Bank<br><sub>Production systems: resolved latency issues in live POS transaction-processing services</sub> | 2025 |
+| **Software Engineer Intern** | Pasha Bank<br><sub>Backend engineering: Java automation tool for the Financial Services CRM and SQL query optimisation</sub> | 2024 |
+
+<br><br>
+
+<div align="center">
+
+## Also built
+
+</div>
+
+**[Team Feedback Platform](https://github.com/amirrza777/team_feedback)**: a full-stack peer evaluation platform built as a team coursework project at King's College London, with role-based access control and automated analytics.<br>
+<code>TypeScript</code> <code>Next.js</code> <code>Prisma</code> <code>MySQL</code>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:8e8e93,100:000000&height=2&section=header" width="100%" alt="" />
+
+<br><br>
+
+<div align="center">
 
 ## Education
 
-**King's College London — BSc Computer Science**  
-London, United Kingdom  
-Sep 2024 – Jun 2027  
+**BSc Computer Science, King's College London**<br>
+First Class (1:1) in Year 2
 
-- Expected Degree: First Class  
-- Fully funded Scholarship by Azerbaijan Ministry of Science & Education (State Program)
+<sub>State Program scholar, fully funded by the Azerbaijan Ministry of Science and Education</sub>
 
----
+<br><br>
 
-## Work Experience
+## Focus
 
-### CCL Label — Quantitative Strategy Intern
+Artificial Intelligence · Software Engineering · Systems · Technology Policy
 
-Kent, United Kingdom  
-Sep 2025 – Present  
+<br><br>
 
-- Developed Python optimisation model improving inventory efficiency and reducing waste  
-- Conducted quantitative analysis to evaluate pricing and distribution strategies  
-- Built technical workflows to support data-driven operational decisions  
+## Toolkit
 
----
+<b>Languages</b><br>
+Python · Java · TypeScript · JavaScript · C++ · SQL · Scala
+<br><br>
+<b>Systems</b><br>
+FastAPI · Spring Boot · React · Next.js · PostgreSQL · Docker · AWS · CI/CD
+<br><br>
+<b>AI & Data</b><br>
+LLM applications · RAG · vector search · evaluation · pandas · NumPy
+<br><br>
+<b>Spoken</b><br>
+Azerbaijani · English · Russian · Turkish · French
 
-### Kapital Bank — Software Engineer Intern
+<br><br>
 
-Baku, Azerbaijan  
-Jun 2025 – Sep 2025  
+## Recognition
 
-- Refactored Java backend logic within production financial systems, improving endpoint performance by 15%  
-- Resolved production-level API issues within Spring Boot services  
-- Contributed to stability and performance of high-volume retail transaction infrastructure  
+**Global Finalist** · I-STEM Olympiad in Informatics<br>
+**Silver medal** · Vilnius International Project Olympiad, Engineering<br>
+**Third place** · American Mathematics Competition<br>
+**Silver medal** · Copernicus Mathematics Olympiad
 
----
+</div>
 
-### CCL Label — Software Engineer Intern
+<br><br>
 
-Kent, United Kingdom  
-Jan 2025 – May 2025  
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:8e8e93,100:000000&height=2&section=header" width="100%" alt="" />
 
-- Developed Python and SQL automation scripts to streamline reporting workflows  
-- Optimised database queries improving internal system performance  
-- Automated manual operational processes through backend scripting  
+<br><br><br>
 
----
+<div align="center">
 
-### Pasha Bank — Software Engineer Intern
+<h1><i>Powerful. Honest. Accountable.</i></h1>
+<sub>The standard I hold everything I build to.</sub>
 
-Baku, Azerbaijan  
-Jun 2024 – Sep 2024  
+<br><br><br>
 
-- Built Java automation utility for internal CRM system  
-- Optimised SQL queries improving system responsiveness and efficiency  
-- Improved internal operational workflows through backend tooling  
+<b>Let's build something people can trust.</b>
 
----
+<br><br>
 
-## Extracurricular Activities
+<a href="mailto:seyidalitunjay1@gmail.com"><img src="https://img.shields.io/badge/Get%20in%20touch-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Get in touch" /></a>
 
-### King’s Investment Society — Research Associate
+</div>
 
-London, United Kingdom  
-Mar 2025 – Present  
+<br><br>
 
----
-
-### King’s Quant Finance Society — Research Associate
-
-London, United Kingdom  
-Feb 2025 – Jul 2025  
-
----
-
-## Achievements & Courses
-
-- **American Mathematics Competitions:** 1st Place (Demonstrated superior problem-solving logic).  
-- **Copernicus Math Olympiad:** 2nd Place (International recognition).  
-- **United Nations ECOSOC (2025):** Youth Delegate.  
-- **State Program Scholarship:** Recipient.  
-- **Courses:** McKinsey & Company Forward Program, Central Bank of Azerbaijan (Financial Services).  
-
----
-
-## Languages
-
-- English — Fluent  
-- Azerbaijani — Native  
-- Russian — Fluent  
-- Turkish — Fluent  
-- French — Intermediate  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c2c2e,50:1c1c1e,100:000000&height=140&section=footer&animation=fadeIn" width="100%" alt="" />
